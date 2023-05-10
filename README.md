@@ -2,7 +2,7 @@
 # Useful <mark>animations</mark> for your web page using <mark>css</mark> and <mark>html</mark>
 
 ## Requirements
-You only need a text editor like Visual Studio Code and in case of opening a new file, be it in css format.
+You only need a text editor like Visual Studio Code and in case of opening a new file, be it in html format.
 
  - **Solar system animation**
 
